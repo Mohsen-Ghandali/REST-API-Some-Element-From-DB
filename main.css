@@ -1,0 +1,19 @@
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: antiquewhite;
+}
+h1{
+text-align: center;
+}
+.item{
+padding: 8px 16px;
+background-color: brown;
+margin: 8px 0;
+}
+h2{
+    color: antiquewhite;
+}
